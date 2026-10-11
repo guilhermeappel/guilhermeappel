@@ -1,47 +1,18 @@
-<h1 align="center">Guilherme Appel</h1>
-<h3 align="center">Software Engineer — Backend, Distributed & Event-Driven Systems</h3>
+# Guilherme Appel
 
-<p align="center">
-10+ years building .NET applications and backend systems. My work focuses on distributed and event-driven systems, system integration, and reliable data workflows connecting modern applications with legacy operational platforms.
-</p>
+**Software Engineer | C#/.NET Backend | Distributed Systems, Event-Driven & System Integration**
 
-<p align="center">
-<a href="https://linkedin.com/in/guilhermeappel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:guilhermeaappel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+I build backend services, APIs and event-driven integrations, and the data workflows that keep multiple systems consistent in production. Most of my recent work connects modern applications with legacy transportation platforms (McLeod, TMW, AS400): Kafka-based processing, data synchronization and reconciliation, and production troubleshooting across services.
 
----
+I also co-founded Fitvôlei, a multi-tenant B2B platform for footvolley training centers, where I lead the technical implementation.
 
-### What I do
+More than 10 years in software · IEEE Member · Indaiatuba, São Paulo, Brazil
 
-- Backend services and APIs in **.NET / C#**
-- Event-driven architecture and integration with **Apache Kafka**
-- Data synchronization and reconciliation between systems
-- Reliability and observability (**OpenTelemetry**, APM)
-- Cloud infrastructure on **Azure** and **AWS**, containerized with **Docker**
+## Open source
 
-### Core stack
+- [Brighter](https://github.com/BrighterCommand/Brighter) (.NET command dispatcher and messaging library): fixes to how the outbox counts and limits outstanding messages, [#4552](https://github.com/BrighterCommand/Brighter/pull/4552), [#4564](https://github.com/BrighterCommand/Brighter/pull/4564), [#4569](https://github.com/BrighterCommand/Brighter/pull/4569)
+- [Svix webhooks](https://github.com/svix/svix-webhooks) (C# SDK): retries now wait with `Task.Delay`, so cancellation is honored, [#2689](https://github.com/svix/svix-webhooks/pull/2689)
 
-**Languages & Frameworks**
+**Stack:** C#, .NET, ASP.NET Core, EF Core · Kafka, Azure Functions · PostgreSQL, SQL Server, Elasticsearch, Redis · Azure, AWS, Docker · OpenTelemetry, APM
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-
-**Data & Messaging**
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-
-**Cloud & Ops**
-
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
-</content>
+[LinkedIn](https://www.linkedin.com/in/guilhermeappel) · [Email](mailto:guilhermeaappel@gmail.com)
