@@ -22,8 +22,6 @@ More than 10 years in software, focused on backend systems and on the integratio
 - Production troubleshooting and observability with **OpenTelemetry** and APM
 - **Fitvôlei**, a multi-tenant B2B platform for footvolley training centers that I co-founded and lead technically
 
-I also contribute to open-source .NET projects, such as [Brighter](https://github.com/BrighterCommand/Brighter) and the [Svix](https://github.com/svix/svix-webhooks) C# SDK.
-
 ### Tech stack
 
 **Backend**
