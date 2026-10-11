@@ -8,8 +8,6 @@ More than 10 years in software, focused on backend systems and on the integratio
 <p align="center">
 <a href="https://www.linkedin.com/in/guilhermeappel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:guilhermeaappel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://img.shields.io/badge/IEEE%20Member-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE Member" />
-<img src="https://img.shields.io/badge/Indaiatuba%2C%20S%C3%A3o%20Paulo%2C%20Brazil-555555?style=flat-square&logo=googlemaps&logoColor=white" alt="Indaiatuba, São Paulo, Brazil" />
 </p>
 
 ---
