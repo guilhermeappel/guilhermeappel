@@ -2,7 +2,11 @@
 <h3 align="center">Software Engineer · C#/.NET Backend · Distributed Systems, Event-Driven & System Integration</h3>
 
 <p align="center">
-More than 10 years in software, focused on backend systems and on the integrations and data workflows that keep multiple systems consistent in production. Most of my recent work connects modern applications with legacy transportation platforms such as McLeod, TMW and AS400.
+I'm a backend engineer from Brazil with more than 10 years in software, working remotely with U.S. teams. I build the services, integrations and data workflows that keep multiple systems consistent in production, connecting modern applications with legacy platforms, most recently in freight and transportation.
+</p>
+
+<p align="center">
+I'm also the co-founder and lead software engineer of <b>Fitvôlei</b>, a multi-tenant B2B platform for footvolley training centers, where I lead the technical side: architecture, backend, web and mobile, infrastructure and production operations.
 </p>
 
 <p align="center">
@@ -16,9 +20,9 @@ More than 10 years in software, focused on backend systems and on the integratio
 
 - Backend services and APIs in **C# and .NET**
 - Event-driven integration and **Kafka**-based processing
-- Data synchronization and reconciliation between modern applications and legacy systems
+- Data synchronization and reconciliation across systems
+- Integrations with third-party APIs, webhooks and payment providers
 - Production troubleshooting and observability with **OpenTelemetry** and APM
-- **Fitvôlei**, a multi-tenant B2B platform for footvolley training centers that I co-founded and lead technically
 
 ### Tech stack
 
