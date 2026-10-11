@@ -1,19 +1,61 @@
-# Guilherme Appel
+<h1 align="center">Guilherme Appel</h1>
+<h3 align="center">Software Engineer · C#/.NET Backend · Distributed Systems, Event-Driven & System Integration</h3>
 
-**Software Engineer | C#/.NET Backend | Distributed Systems, Event-Driven & System Integration**
+<p align="center">
+More than 10 years in software, focused on backend systems and on the integrations and data workflows that keep multiple systems consistent in production. Most of my recent work connects modern applications with legacy transportation platforms such as McLeod, TMW and AS400.
+</p>
 
-I'm a software engineer with more than 10 years in software, focused on backend systems and on the integrations and data workflows that keep multiple systems consistent in production. Most of my recent work connects modern applications with legacy transportation platforms such as McLeod, TMW and AS400.
+<p align="center">
+<a href="https://www.linkedin.com/in/guilhermeappel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:guilhermeaappel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/IEEE-Member-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE Member" />
+<img src="https://img.shields.io/badge/Indaiatuba%2C%20S%C3%A3o%20Paulo%2C%20Brazil-555555?style=flat-square&logo=googlemaps&logoColor=white" alt="Indaiatuba, São Paulo, Brazil" />
+</p>
+
+---
 
 ### What I work on
 
-- Backend services and APIs in C# and .NET
-- Event-driven integration and Kafka-based processing
-- Data synchronization and reconciliation across systems
-- Production troubleshooting and observability with OpenTelemetry and APM
-- Fitvôlei, a multi-tenant B2B platform for footvolley training centers that I co-founded and lead technically
+- Backend services and APIs in **C# and .NET**
+- Event-driven integration and **Kafka**-based processing
+- Data synchronization and reconciliation between modern applications and legacy systems
+- Production troubleshooting and observability with **OpenTelemetry** and APM
+- **Fitvôlei**, a multi-tenant B2B platform for footvolley training centers that I co-founded and lead technically
 
 I also contribute to open-source .NET projects, such as [Brighter](https://github.com/BrighterCommand/Brighter) and the [Svix](https://github.com/svix/svix-webhooks) C# SDK.
 
-**Stack:** C#, .NET, ASP.NET Core, EF Core · Kafka, Azure Functions · PostgreSQL, SQL Server, Elasticsearch, Redis · Azure, AWS, Docker · OpenTelemetry, APM
+### Tech stack
 
-IEEE Member · Indaiatuba, São Paulo, Brazil · [LinkedIn](https://www.linkedin.com/in/guilhermeappel) · [Email](mailto:guilhermeaappel@gmail.com)
+**Backend**
+
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/-EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**Messaging & Integration**
+
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/-Azure%20Functions-0062AD?style=flat-square&logo=azurefunctions&logoColor=white)
+
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+**Cloud & Observability**
+
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
+![Kibana](https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
